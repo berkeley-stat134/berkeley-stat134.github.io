@@ -27,6 +27,12 @@ UC Berkeley
 
 An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions. 
 
+## Logistics
+
+Three hours of lecture and two hours of discussion per week. Six hours of lecture and four hours of discussion per week for 8 weeks. 
+
+Written final exam conducted during the scheduled final exam period.
+
 ## Prerequisites
 
 One year of calculus. 
