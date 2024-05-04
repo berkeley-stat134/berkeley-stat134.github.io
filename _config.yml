@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 134: Concepts of Probability"
 tagline: Course Overview
-description: An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions. 
+description: "An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions. "
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat134.berkeley.edu'
