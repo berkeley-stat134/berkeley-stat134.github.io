@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 134: Concepts of Probability
+title: "Stat 134: Concepts of Probability"
 tagline: Course Overview
 description: An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions. 
 author: SCF
